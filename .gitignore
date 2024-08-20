@@ -1,1 +1,4 @@
 glove/glove.6B.100d.txt
+output.csv
+model.pkl
+model_svm.pkl
